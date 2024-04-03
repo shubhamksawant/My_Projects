@@ -11,4 +11,6 @@ Thank you for visiting 🙌🏼
 #
 [🚀AWS-based Automated Image Resizing and Transfer System 🌐💻🛠️ ](https://github.com/shubhamksawant/image-resizing-and-transfer-system)
 #
+[🚀Automation Tasks - AWS Cost Optimization 🌐💻🛠️](https://github.com/shubhamksawant/aws-cost-optimization)
+#
 

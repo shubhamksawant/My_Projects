@@ -13,5 +13,5 @@ Thank you for visiting 🙌🏼
 #
 [🚀Automation Tasks - AWS Cost Optimization 🌐💻🛠️](https://github.com/shubhamksawant/aws-cost-optimization)
 #
-[🚀three-tier-architecture-with-terraform🌐💻🛠️](https://github.com/shubhamksawant/three-tier-architecture-with-terraform)
+[🚀Three-tier Architecture application infrastructure with terraform🌐💻🛠️](https://github.com/shubhamksawant/three-tier-architecture-with-terraform)
 
